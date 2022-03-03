@@ -1,0 +1,3 @@
+<xs:element name="Test_x0020_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Test_x0020_Type_x0020_Id" type="xs:short" minOccurs="0" />
+                <xs:element name="Cross_x0020_Section_x0020_Id" type="xs:short" minOccurs="0" />`
